@@ -1,0 +1,7 @@
+*.lst
+*.m51
+*.uvopt
+*.uvproj
+*.obj
+*.uvgui.*
+*.build_log.htm
